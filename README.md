@@ -1,2 +1,2 @@
 # CocktailCrafterDemo
-Repo was renamed to https://github.com/MurkyPuma/SodaVault
+Repo was moved to https://github.com/MurkyPuma/SodaVault
